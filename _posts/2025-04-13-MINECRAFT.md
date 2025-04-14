@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Introdução
+title: MINECRAFT
 # cover-img: /assets/img/path.jpg
-# thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/ccc.jpg
 # share-img: /assets/img/path.jpg
-tags: [Apresentação]
+tags: [MINE]
 author: MOJANG
 ---
 
