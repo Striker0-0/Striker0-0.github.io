@@ -7,7 +7,9 @@ _site
 .DS_Store
 Thumbs.db
 ehthumbs.db
-
+AppData/
+Ambiente de Impressão/
+Ambiente de Rede/
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
